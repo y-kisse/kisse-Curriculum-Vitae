@@ -4,34 +4,50 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|kisse|
+|Blog|[kisse-logs!](http://www.kisse-logs.com)|
+|Twitter|[@nyannko_kisse](https://twitter.com/nyannko_kisse)|
 
 ## スキル
 
 ### 言語
 
-- プログラミング言語
+- Python: 2年程度
+- C#: 1年程度
+- GoLang: 1ヶ月程度
+- JavaScript: 1ヶ月程度
+- Node.js: 1ヶ月程度
 
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - 論文やドキュメントなどを原文でなんとか読める
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- Django
+- Flask
+- Express
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- 資格
+  - 基本情報技術者
+  - 応用情報技術者
+  - データベーススペシャリスト
+
+- データベース
+  - MySQL
+  - SQL Server
+
+- その他ツール
+  - Docker
+  - nginx
 
 ## 強み
+
+- コンピュータサイエンスの基礎を学んだ
+- RDBMSの基礎理論を学んだ
 
 ## やったことはないが興味があるもの
 
@@ -47,22 +63,21 @@
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2018/09 ~ : D社
 
-職務: Webアプリケーションエンジニア（例）
+#### 学生インターン
 
-#### 職務内容の名前（レストラン検索とか）
+- DBエンジニア
+  - 社内DB統合プロジェクトの参加
+  - データ分析の自動化
 
-- 職務内容の詳細を箇条書きでかく
+### 2017/02 ~ 2018/09: I社
 
-#### 職務内容の名前（レストラン検索とか）
+#### 学生インターン
 
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
+- バックエンドエンジニア
+  - モバイルのバックエンドで発生したバグの調査、修正
+- 運用エンジニア
+  - サービス内データベースのデータ更新
+  - サービス内データの抽出、加工、可視化など
+  - PythonやRe:dashなどを利用したデータ分析業務の自動化
