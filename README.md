@@ -4,9 +4,10 @@
 
 |key|value|
 |---|-----|
-|Name|kisse|
+|Name|y-kisse(Yudai Kichise)|
 |Blog|[kisse-logs!](http://www.kisse-logs.com)|
 |Twitter|[@nyannko_kisse](https://twitter.com/nyannko_kisse)|
+|Birth|1996|
 
 ## スキル
 
