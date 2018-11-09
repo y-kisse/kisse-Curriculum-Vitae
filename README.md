@@ -44,6 +44,7 @@
 - その他ツール
   - Docker
   - nginx
+  - Git
 
 ## 強み
 
